@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+    height: 570px;
+}
+
+#header-H1{
+    color: blanchedalmond;
+    font-size: 50px ;
+    font-family: 'Dosis', sans-serif;
+}
+#header-p{
+    color: rgb(143, 140, 140);
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+#header-section{
+display: flex;
+
+}
+.header-div{
+   width: 50%;
+
+  
+}
+.header-div img{
+    width: 550px;
+padding-left: 7%;    
+}
+.header-h1{
+    color: rgb(229, 255, 0);
+    
+}
+.marquee{
+    color: rgb(2, 226, 255);
+    font-family: 'Noto Sans', sans-serif; 
+}
