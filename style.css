@@ -150,7 +150,7 @@ width: 90%;
 }
 .div-susbcrice{
     width: 50%;
-    padding-left: 7%;
+    padding-left: 11%;
     padding-right: 9%;
     font-family: 'Otomanopee One', sans-serif;
 }
@@ -174,3 +174,10 @@ width: 90%;
 #LAST-SPAN{
     color: orangered;
 }
+.shadow{
+    box-shadow: 10px 10px 40px rgb(184, 184, 184);
+   border-image-slice: 1;
+   margin-left: 10px;
+   margin-right: 10px;
+   border-radius: 30px;
+   }
