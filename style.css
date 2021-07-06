@@ -50,7 +50,7 @@ padding-left: 7%;
 }
 Section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     }
 .section1-div{
     width: 50%  ;
@@ -64,6 +64,7 @@ width: 90%;
     background-image: url(shapes/Frame\ 56.jpg ) ;
     background-size: 70%;
     background-repeat: no-repeat;
+
     
 }
 .section1-text-h1{
@@ -94,6 +95,7 @@ width: 90%;
 .section2-div{
     width: 50%  ;
     padding: 5%;
+    margin-bottom: 10px;
 }
 .section2-div img{
 width: 650px;
@@ -113,4 +115,62 @@ width: 650px;
     background-repeat: no-repeat;
     background-size: 100%;
    
+}
+#my-recipies{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    color: rgb(54, 54, 54);
+    
+}
+
+.section3{
+width: 50%;
+padding: 5%
+}
+.Section3 img{
+width: 90%;
+}
+
+.item{
+    width: 50%;
+    font-family: 'Otomanopee One', sans-serif;
+    color: rgb(59, 59, 59);
+}
+.item img{
+    width: 100%;
+    border-radius: 20px;
+}
+#food-2{
+    width: 345px;
+}
+.section4-div{
+   display: flex;
+  padding: 5%;
+   
+}
+.div-susbcrice{
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 9%;
+    font-family: 'Otomanopee One', sans-serif;
+}
+#last-div{
+    height: 200px;
+    background-color: rgb(3, 10, 29);
+    color: rgb(126, 126, 126);
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align: center;
+    padding-top: 2%;
+    
+    
+}
+#last-section-h5{
+    padding-top: 1%;
+}
+#footer{
+    padding-top: 3%;
+    color: rgb(131, 131, 131);
+}
+#LAST-SPAN{
+    color: orangered;
 }
